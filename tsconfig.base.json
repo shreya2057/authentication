@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@authentication/types": ["libs/types/src/index.ts"],
-      "@authentication/components": ["libs/components/src/index.ts"]
+      "@authentication/components": ["libs/components/src/index.ts"],
+      "@authentication/utils": ["libs/utils/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
