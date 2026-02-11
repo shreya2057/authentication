@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@authentication/types": ["libs/types/src/index.ts"]
+      "@authentication/types": ["libs/types/src/index.ts"],
+      "@authentication/components": ["libs/components/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
